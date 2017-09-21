@@ -9,6 +9,7 @@
 * sfdx force:org:open -u FullSandbox
 * sfdx force:org:open -u MyScratchOrg
 * sfdx force:limits:api:display -u DevSandbox
+* sfdx force:org:list --verbose       # see all orgs
 
 
 #
