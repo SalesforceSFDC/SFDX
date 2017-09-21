@@ -16,6 +16,7 @@
 * The -f option is the path to the project scratch org configuration file.
 * the -a option lets you refer to the org using its alias, GeoAppScratch, in future commands.
 * sfdx force:user:permset:assign -n Geolocation # assign permission set to user
+* sfdx force:scource:pull
 
 
 
