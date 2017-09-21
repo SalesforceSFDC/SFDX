@@ -11,6 +11,7 @@
 * sfdx force:limits:api:display -u DevSandbox
 * sfdx force:org:list --verbose       # see all orgs
 * sfdx force:project:create -n geolocation
+* sfdx force:org:create -s -f config/project-scratch-def.json -a GeoAppScratch # create a scratch with alias GeoAppScratch
 
 
 #
