@@ -17,7 +17,7 @@
 * the -a option lets you refer to the org using its alias, GeoAppScratch, in future commands.
 * sfdx force:user:permset:assign -n Geolocation # assign permission set to user
 * sfdx force:scource:pull
-
+* sfdx force:data:tree:export -q "SELECT Name, Location__Latitude__s, Location__Longitude__s FROM Account WHERE Location__Latitude__s != NULL AND Location__Longitude__s != NULL" -d ./data
 
 
 #
