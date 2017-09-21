@@ -1,4 +1,4 @@
-# SFDX Commands
+# SFDX Commands :wolf:
 
 * sfdx force --help
 * sfdx force:doc:commands:list
