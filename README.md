@@ -80,3 +80,6 @@
   * force:user:permset:assign          # assign a permission set to the admin user of an org
   * force:visualforce:component:create # create a visualforce component
   * force:visualforce:page:create      # create a visualforce page
+
+
+:package:
