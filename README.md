@@ -10,6 +10,7 @@
 * sfdx force:org:open -u MyScratchOrg
 * sfdx force:limits:api:display -u DevSandbox
 * sfdx force:org:list --verbose       # see all orgs
+* sfdx force:project:create -n geolocation
 
 
 #
