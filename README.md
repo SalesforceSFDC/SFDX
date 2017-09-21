@@ -1,8 +1,9 @@
-# SFDX Commands :wolf: :USA:
+# SFDX Commands :wolf: :computer:
 
 * sfdx force --help
 * sfdx force:doc:commands:list
 * sfdx force:auth:web:login
+* sfdx force:org:open -u DevHub
 
 #
 
