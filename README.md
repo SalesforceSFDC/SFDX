@@ -12,6 +12,9 @@
 * sfdx force:org:list --verbose       # see all orgs
 * sfdx force:project:create -n geolocation
 * sfdx force:org:create -s -f config/project-scratch-def.json -a GeoAppScratch # create a scratch with alias GeoAppScratch
+* The -s option indicates that you want this scratch org to be the default org for this project.
+* The -f option is the path to the project scratch org configuration file.
+* the -a option lets you refer to the org using its alias, GeoAppScratch, in future commands.
 
 
 #
