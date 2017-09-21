@@ -4,6 +4,8 @@
 * sfdx force:doc:commands:list
 * sfdx force:auth:web:login
 * sfdx force:org:open -u DevHub
+* sfdx force:auth:web:login -r https://test.salesforce.com -a FullSandbox
+* sfdx force:auth:web:login -r https://test.salesforce.com -a DevSandbox
 
 #
 
