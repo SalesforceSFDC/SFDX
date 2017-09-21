@@ -1,6 +1,6 @@
 # SFDX Commands :wolf: :computer:
 
-modular artifact-based development process
+modular artifact-based development process - An artifact is a group of related code and customizations.
 
 * sfdx force --help
 * sfdx force:doc:commands:list
