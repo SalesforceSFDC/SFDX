@@ -1,5 +1,7 @@
 # SFDX Commands :wolf: :computer:
 
+modular artifact-based development process
+
 * sfdx force --help
 * sfdx force:doc:commands:list
 * sfdx force:auth:web:login
