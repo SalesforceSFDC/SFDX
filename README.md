@@ -23,6 +23,7 @@ modular artifact-based development process - An artifact is a group of related c
 * sfdx force:data:tree:export -q "SELECT Name, Location__Latitude__s, Location__Longitude__s FROM Account WHERE Location__Latitude__s != NULL AND Location__Longitude__s != NULL" -d ./data
 * sfdx force:data:tree:import --sobjecttreefiles data/Account.json
 * sfdx force:apex:class:create -n AccountController -d force-app/main/default/classes
+* sfdx force:lightning:component:create -n AccountLocator -d force-app/main/default/aura
 
 
 #
