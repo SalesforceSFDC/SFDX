@@ -24,7 +24,7 @@ modular artifact-based development process - An artifact is a group of related c
 * sfdx force:data:tree:import --sobjecttreefiles data/Account.json
 * sfdx force:apex:class:create -n AccountController -d force-app/main/default/classes
 * sfdx force:lightning:component:create -n AccountLocator -d force-app/main/default/aura
-
+* sfdx force:lightning:component:create -n AccountListItem -d force-app/main/default/aura
 
 #
 
