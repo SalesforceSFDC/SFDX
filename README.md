@@ -105,5 +105,5 @@ modular artifact-based development process - An artifact is a group of related c
   * force:visualforce:page:create      # create a visualforce page
 
 
-:package:
 :apple:
+:orange:
