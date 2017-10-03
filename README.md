@@ -103,7 +103,5 @@ modular artifact-based development process - An artifact is a group of related c
   * force:user:permset:assign          # assign a permission set to the admin user of an org
   * force:visualforce:component:create # create a visualforce component
   * force:visualforce:page:create      # create a visualforce page
-
-
 :apple:
 :orange:
