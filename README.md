@@ -2,7 +2,7 @@
 
 modular artifact-based development process - An artifact is a group of related code and customizations.
 * Salesforce DX project is a local directory structure of your artifact source and Salesforce DX metadata that lets you develop and test with Salesforce DX tooling.
-
+:fireworks:
 * sfdx force --help
 * sfdx force:doc:commands:list
 * sfdx force:auth:web:login
