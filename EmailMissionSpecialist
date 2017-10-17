@@ -1,0 +1,9 @@
+EmailMissionSpecialist em = new EmailMissionSpecialist();
+em.sendMail('Enter your email address', 'Flight Path Change', 
+   'Mission Control 123: Your flight path has been changed to avoid collision '
+   + 'with asteroid 2014 QO441.');
+   
+EmailMissionSpecialist em = new EmailMissionSpecialist();
+em.sendMail('vukdukic@gmail.com', 'Flight Path Change', 
+   'Mission Control 123: Your flight path has been changed to avoid collision '
+   + 'with asteroid 2014 QO441.');
